@@ -41,7 +41,7 @@ Template: astra
 }
 .has-carbon-background-color
 {
-  color: #4A4A4A;
+  background-color: #4A4A4A;
 }
 .has-caramel-color
 {
@@ -49,7 +49,7 @@ Template: astra
 }
 .has-caramel-background-color
 {
-  color: #8B572A;
+  background-color: #8B572A;
 }
 .has-vanilla-color
 {
@@ -57,7 +57,7 @@ Template: astra
 }
 .has-vanilla-background-color
 {
-  color: #EBE5D9;
+  background-color: #EBE5D9;
 }
 .has-cappuccino-color
 {
@@ -65,7 +65,7 @@ Template: astra
 }
 .has-cappuccino-background-color
 {
-  color: #B09F82;
+  background-color: #B09F82;
 }
 .has-white-color
 {
@@ -73,5 +73,5 @@ Template: astra
 }
 .has-white-background-color
 {
-  color: #FFFFFF;
+  background-color: #FFFFFF;
 }
