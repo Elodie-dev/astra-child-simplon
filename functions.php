@@ -16,12 +16,6 @@ function my_theme_enqueue_styles() {
 	);
 }
 
-// load theme text domain
-add_action( 'after_setup_theme', 'astra_child_simplon_theme_setup' );
-
-function astra_child_simplon_theme_setup() {
-	load_child_theme_textdomain( 'astra-child-simplon' );
-}
 
 // add custom section to customizer
 
